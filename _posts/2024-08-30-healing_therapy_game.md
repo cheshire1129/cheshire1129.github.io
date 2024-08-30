@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Healing Therapy Game By Scratch"
 ---
 ### Scratch Game
